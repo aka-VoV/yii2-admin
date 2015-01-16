@@ -1,5 +1,5 @@
 {
-    "name": "mdmsoft/yii2-admin",
+    "name": "aka-VoV/yii2-admin",
     "description": "Auth manager for Yii2 ",
     "keywords": ["yii", "admin", "auth"],
     "type": "yii2-extension",
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mdm\\admin\\": ""
+            "aka-VoV\\admin\\": ""
         }
     },
     "extra": {
